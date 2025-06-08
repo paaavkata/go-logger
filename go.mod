@@ -1,4 +1,4 @@
-module github.com/paaavkata/go-logger/logger
+module github.com/paaavkata/go-logger
 
 go 1.23.3
 
